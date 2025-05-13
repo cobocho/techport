@@ -1,1 +1,1 @@
-export { BoardingPass } from './template/create';
+export { BoardingPass } from './internal/boarding-pass';
